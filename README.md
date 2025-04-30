@@ -15,3 +15,5 @@ A— move to the left. D — move to the right.
 E- switches the auto-pass mode (if it is unlocked). K - switches the noclip mode (passing through walls).
 Q- exit the game. Enter (or Return)- check the entered code (8184, 1111, 1234).
 Backspace - deletes the last character of the entered code.
+
+⚠️ This game is a fan-made project inspired by Pac-Man. All rights to the original Pac-Man belong to Bandai Namco.
