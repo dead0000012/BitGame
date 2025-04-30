@@ -1,4 +1,4 @@
-This is a 2D Pac-Man game created using artificial intelligence. The game has commands that can be activated by entering the appropriate codes.
+This is a 2D Mini game created using artificial intelligence. The game has commands that can be activated by entering the appropriate codes.
 
 Codes:
 
